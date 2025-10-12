@@ -48,7 +48,8 @@ export default function App(): JSX.Element {
   return (
     <div className="min-h-screen bg-gradient-to-b bg-[#f5b6b3] flex flex-col items-center py-8 px-4">
       <h1 className="text-2xl sm:text-3xl font-bold mb-4 text-center">Marea Ciubăreală — Countdown</h1>
-
+        <h2 className="text-lg font-semibold">Hikereala - VII</h2>
+        <h2 className="text-lg font-semibold">Ciubareala - V</h2>
       <Card className="w-full max-w-md mb-6">
         <div className="card-header">
           <h2 className="text-lg font-semibold">Până la eveniment</h2>
